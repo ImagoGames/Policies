@@ -33,6 +33,7 @@ email: gaussiangames@gmail.com
 * Data for advertising and analytics purposes, so we can provide you with better Services
 
 ## HOW WE USE YOUR DATA
+We use your data to enable us to provide our Services to you and to optimise all of them so that we can make them the best they can be for you and all our players. This will include use and analysis of aggregated data to make sure that our games work properly on all devices and are as enjoyable as they can be for all our players.
 
 ## HOW WE RETAIN YOUR DATA
 
